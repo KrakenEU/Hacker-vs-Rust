@@ -1,0 +1,1 @@
+C:\Users\hacker\Desktop\rust\todo_list\target\release\todo_list.exe: C:\Users\hacker\Desktop\rust\todo_list\src\db.rs C:\Users\hacker\Desktop\rust\todo_list\src\item.rs C:\Users\hacker\Desktop\rust\todo_list\src\main.rs C:\Users\hacker\Desktop\rust\todo_list\src\welcome.rs
